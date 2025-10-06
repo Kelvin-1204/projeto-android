@@ -197,8 +197,8 @@ footer {
     background-color: var(--cor5);
     color: white;
     text-align: center;
-    font-size: 0.8;
-    padding: 5px;
+    padding: 10px;
+    margin: auto;
 }
 
 footer a {
